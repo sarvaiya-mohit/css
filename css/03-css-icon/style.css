@@ -1,0 +1,76 @@
+
+
+.menu-icon{
+    border: 1px solid gray;
+    border-radius: 1px;
+    padding: 3px;
+    height: 10px;
+    width: 10px;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 30px;
+    background-color: black;
+}
+
+
+.ri-arrow-left-down-box-line{
+    font-size: 40px;
+
+}
+
+
+.ri-menu-search-line{
+    background: green;
+}
+
+.fa-brands-fa-square-upwork{
+    font-size: 40px;
+
+}
+
+.fa-solide-fa-image{
+  font-size: 30px;
+
+} 
+
+.fa-solide-fa-circle-user{
+    font-weight: 500;
+}
+
+.para{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.para2{
+    font-family:"Playfair", serif;
+ ;
+}
+
+.major-mono-display-regular {
+  font-family: "Major Mono Display", monospace;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.title{
+          font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 60px;
+  font-style: oblique;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+
+}
+
+.m1{
+    background-color: blueviolet;
+    color: aqua;
+    font-family: "Edu VIC WA NT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal'
+}
+

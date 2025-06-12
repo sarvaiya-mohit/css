@@ -1,0 +1,79 @@
+
+h2{
+   font-size:25px;
+   color:green;
+}
+
+h1{
+	color:red;
+}
+
+.para1{
+	color:green;
+    font-weight:800px;
+    font-family:arial;
+    letter-spacing:3px;
+    word-spacing:10px;	
+	font-size:30;
+}
+
+.para2{
+	color:yelow;
+	font-family:monospace;
+	font-style:italic;
+	font-size:30;
+}
+
+
+p{
+	background-color:pink;	
+}
+
+.text{
+	background-color:green;	
+}
+
+.align-para4{
+	background-color:orange;
+	word-spacing:5px;
+	font-style:italic;
+	font-size:25;
+}
+
+
+
+.alic-para1{
+	background-color:lightyellow;	
+	word-spacing:5px;
+	font-style:italic;
+	font-size:25;
+}
+
+
+#text{
+	background-color:lightblue;	
+}
+
+.btn{
+	padding:5px 9px;
+	font-weight:500;
+	font-family:20px;
+	font-family:poppins;
+	letter-spacing:3px;
+	
+}
+
+.btn-green{
+	color:white;
+	background-color:blue;
+}
+
+.btn-yelow{
+	color:white;
+	background-color:tomato;
+}
+
+.btn-para{
+	color:white;
+	background-color:green;
+}
