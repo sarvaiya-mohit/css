@@ -1,0 +1,49 @@
+
+
+{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+       
+}
+
+.container{
+    padding-top: 150px;
+    height: 100vh;
+
+    background-size: cover;
+    background-attachment: fixed;
+     
+}
+
+.bg1{
+    text-align: center;
+    color: white;
+   
+    background-image: url('https://5.imimg.com/data5/SELLER/Default/2022/12/BZ/SX/MU/44565540/3d-wallpaper.png');
+}
+
+.bg2{
+    text-align: center;
+    background-image: url('https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?cs=srgb&dl=pexels-souvenirpixels-414612.jpg&fm=jpg');
+}
+
+.bg3{
+    text-align: center;
+    color:lightcyan;
+
+    background-image: url('https://onetreeplanted.org/cdn/shop/files/dramatic-tree-1661526783684.jpg?v=1738153906');
+    background-blend-mode: overlay;
+}
+
+.bg4{
+    text-align: center;
+    color: lightblue;
+    background-image: url('https://webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2024-04/a-united-vision-for-nature-nature-positive-report-marks-new-collaborative-era-in-travel-tourism_0.jpeg');
+}
+
+.bg5{   
+    color:lightyellow;
+    text-align: center;
+    background-image: url('https://images.pexels.com/photos/618079/pexels-photo-618079.jpeg?cs=srgb&dl=pexels-apasaric-618079.jpg&fm=jpg');
+}
