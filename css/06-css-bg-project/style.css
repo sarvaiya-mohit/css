@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+
+         padding-top: 150px;
+
+     height: 100vh;
+    
+    background-size: cover;
+    background-blend-mode: fixed;
+}
+
+.bg1{
+    text-align: center;
+    color: aqua;
+
+    background-image: url('https://static.designboom.com/wp-content/uploads/2023/04/2023-jaguar-f-type-final-drive-designboom03.jpg');
+}
+
+.bg2{
+    text-align: center;
+    background-image: url('https://www.thestreet.com/.image/t_share/MjA0ODA5NTg5Mjg2MjUwMDc4/chengdu-motor-show-2021.jpg ');
+}
+
+.bg3{
+    text-align: center;
+    color: beige;
+    background-image: url('https://media.production.jlrms.com/2022-04-25/image/6a274cf2-3669-4626-97d7-638ed3708339/Jaguar_XF_23MY_300_SPORT_Interior_Front_View_260422.jpg?VersionId=nj7Vk.kJC9_cxiEEBS3YK0RvUpQ0rCDq');
+
+}
+
+.bg4{
+    text-align: center;
+    color:gray;
+    background-image: url('https://static1.topspeedimages.com/wordpress/wp-content/uploads/2023/09/resize_01e-type-ots-exterior-f3qs.jpg');
+    background-blend-mode: overlay;
+}
+
+.bg5{
+    text-align: center;
+    color: blueviolet;
+
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Silver_jaguar_c-x75.jpg/960px-Silver_jaguar_c-x75.jpg');
+}
