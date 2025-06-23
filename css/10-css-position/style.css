@@ -1,0 +1,93 @@
+*{
+    font-size: 40px;
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+}
+
+.relative{
+
+    background-color: aliceblue;
+    position: relative;
+    top: -50px;
+    left: 200px;
+}
+
+.absolute{
+    background-color: aqua;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.fixed{
+    background-color: blanchedalmond;
+    position: fixed;
+    top: 500px;
+    left: 1800px;
+  
+}
+
+.fixed:hover{
+    rotate: 60deg;
+}
+
+.sticky{
+    background-color: blueviolet;
+    position: sticky;
+    top: 60px;
+    left: 60px;
+}
+
+.container{
+    width: 500px;
+    height: 300px;
+    border: 2px solid green;
+
+    position: relative;
+}
+
+.bx{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.bx:hover{
+    rotate: 65deg;
+}
+
+.contact{
+    margin: 100px 0px;
+}
+
+.contact >div{
+    border: 1px solid red;
+    display: inline-block;
+    width: 800px;
+    padding: 150px;
+    background-color: rgba(127, 255, 212, 0.502);
+}
+
+.contact label,input,textarea{
+    font-size: 40px;
+    width: 500px;
+    height: 50px;
+   
+}
+
+.contact input{
+    width: 100%;
+    padding: 4px;
+    font-size: 19px;
+}
+
+
