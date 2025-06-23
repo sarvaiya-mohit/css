@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+    border-radius: 1px solid green;
+   
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+}
+
+.box1{
+    background-color: orange;
+    float: left;
+}
+
+.box2{
+    background-color: green;
+    float: left;
+}
+
+.box1{
+    background-color: orange;
+    float: left;
+}
+
+.box2{
+    background-color: green;
+    float:left;
+}
+
+.box1{
+    background: orange;
+    float: left;
+}
+
+.box2{
+    background: green;
+    float: left;
+}
+
+.c1{
+    clear: both;
+}
+
+.c2{
+    clear: both;
+}
