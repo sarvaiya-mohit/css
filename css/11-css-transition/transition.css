@@ -1,0 +1,61 @@
+
+
+
+.box{
+    width: 90px;
+    height: 90px;
+
+    margin: 50px;
+}
+
+.box1{
+    background-color: rgb(128, 121, 113);
+    transition: all 2s;
+}
+
+.box1:hover{
+    transform: rotate(350deg);
+}
+
+.box2{
+    background-color: green;
+    transition: all 0.2s 1s;
+}
+
+.box2:hover{
+    width: 200px;
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+    border: 2px solid gray;
+}
+
+.container .box{
+    background-color: orange;
+}
+
+.time1{
+   transition: all 3s linear;
+}
+
+.time2{
+    transition: all 3s ease-in;
+}
+
+.time3{
+    transition: all 3s ease-out;
+}
+
+.time4{
+    transition: all 3s ease-in-out;
+}
+
+.time5{
+    transition: all 3s cubic-bazier;
+}
+
+.container:hover .box{
+    width: 530px;
+}
